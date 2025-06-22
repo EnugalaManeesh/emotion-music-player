@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.h5
+*.json
+music/
+keras_env37/
+get-pip.py
